@@ -187,61 +187,61 @@ accordionData.forEach((item) => {
 const developers = [
   {
     "Jane Cooper": {
-      image: "dev1.png",
+      image: "dev1.webp",
       exp: "5+ Years",
     },
   },
   {
     "Wade Warren": {
-      image: "dev2.png",
+      image: "dev2.webp",
       exp: "7+ Years",
     },
   },
   {
     "Krisitin Watson": {
-      image: "dev3.png",
+      image: "dev3.webp",
       exp: "6+ Years",
     },
   },
   {
     "Robert Fox": {
-      image: "dev4.png",
+      image: "dev4.webp",
       exp: "6+ Years",
     },
   },
   {
     "Darlene Robertson": {
-      image: "dev5.png",
+      image: "dev5.webp",
       exp: "6+ Years",
     },
   },
   {
     "Kathryn Murphy": {
-      image: "dev6.png",
+      image: "dev6.webp",
       exp: "6+ Years",
     },
   },
   {
     "Arlene McCoy": {
-      image: "dev7.png",
+      image: "dev7.webp",
       exp: "3+ Years",
     },
   },
   {
     "Annette Black": {
-      image: "dev8.png",
+      image: "dev8.webp",
       exp: "6+ Years",
     },
   },
   {
     "Floyd Miles": {
-      image: "dev9.png",
+      image: "dev9.webp",
       exp: "5+ Years",
     },
   },
   {
     "Ronald Richards": {
-      image: "dev10.png",
+      image: "dev10.webp",
       exp: "6+ Years",
     },
   },
