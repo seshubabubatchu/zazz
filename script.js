@@ -313,7 +313,7 @@ nextButton.addEventListener("click", () => {
   const translateX = -currentIndex * 310; // 310 is the total width of each developer-detail including margin
   container.style.transform = `translateX(${translateX}px)`;
   prevButton.disabled = false; // Enable "Prev" button
-  nextButton.disabled = currentIndex === developers.length - 1; // Disable "Next" button at the end
+  nextButton.disabled = currentIndex > 2; // Disable "Next" button at the end
   console.log(currentIndex);
   if (currentIndex == developers.length) {
     // appendDeveloperDetails();
