@@ -319,6 +319,14 @@ h3 {
 .form-one input:focus .form-one label {
   top: -20px;
 }
+@media screen and (max-width: 576px) {
+  .button-area .lets-talk {
+    width: 110px;
+  }
+  .section-with-form {
+    width: 103% !important;
+  }
+}
 .form-one .right-submit {
   padding: 20px;
   width: 200px;
